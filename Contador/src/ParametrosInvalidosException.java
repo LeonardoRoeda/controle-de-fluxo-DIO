@@ -9,3 +9,16 @@ public class ParametrosInvalidosException extends Exception {
         return messagemDeErro;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+   
